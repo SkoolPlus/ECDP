@@ -6,6 +6,6 @@ This project will solve and discuss this problem.
 The documents used in a competition in High School for Gifted Student (Viet Nam).
 
 ## License
-Copyright &copy; **SkoolPlus**. All rights reserved.
+Copyright &copy; SkoolPlus. All rights reserved.
 
 Licensed under the [CC0-1.0](LICENSE) license.
